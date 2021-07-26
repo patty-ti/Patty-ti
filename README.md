@@ -1,4 +1,8 @@
 ## Hello, world! Meu nome é Patty Rodrigues! ;D
+
+👨‍💻 Cursando Bacharelado em Sistemas de Informação, 2 ° período.
+👨‍💻 FullStack dev
+
  <div>
   <a href="https://github.com/patty-ti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patty-ti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,7 +16,7 @@
   <img align="center" alt="Patty-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Patty-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Patty-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Patty-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  
 </div>
   
   ##
@@ -22,6 +26,6 @@
  	<a href = "mailto: prs.pattyrodriguess@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/patriciarodriguessilvaprs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/patty-ti/patty-ti/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/patty-ti/Patty-ti/blob/output/github-contribution-grid-snake.svg)
  
 </div>

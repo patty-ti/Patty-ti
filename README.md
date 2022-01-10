@@ -1,6 +1,6 @@
 ## Hello, world! Meu nome é Patty Rodrigues! ;D
 
-👨‍💻 Cursando Bacharelado em Sistemas de Informação, 2 ° período.
+👨‍💻 Cursando Bacharelado em Sistemas de Informação, 4° período.
 👨‍💻 FullStack dev
 
  <div>

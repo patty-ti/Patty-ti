@@ -1,10 +1,10 @@
 ## Hello, world! My name is Patty Rodrigues! ;D
 
 👨‍💻 Cursando Bacharelado em Sistemas de Informação, 7° período.
-👨‍💻 Front-end develop
+👨‍💻 Front-end developer
 
 
-<div align="center">
+<div align="start">
   <img src="https://komarev.com/ghpvc/?username=matrix278&label=Profile%20views&color=48c030&style=flat" height="25" width="130" alt="matrix278" />
 </div>
 

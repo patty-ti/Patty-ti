@@ -29,10 +29,6 @@
   
   ##
 
-[<p align="center">
-  <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
-</p>](url)
-
  <picture>
   <source
     media="(prefers-color-scheme: dark)"

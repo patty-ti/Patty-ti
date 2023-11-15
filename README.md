@@ -3,6 +3,12 @@
 👨‍💻 Cursando Bacharelado em Sistemas de Informação, 4° período.
 👨‍💻 FullStack dev
 
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=matrix278&label=Profile%20views&color=48c030&style=flat" height="25" width="130" alt="matrix278" />
+</div>
+
+
  <div>
   <a href="https://github.com/patty-ti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patty-ti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

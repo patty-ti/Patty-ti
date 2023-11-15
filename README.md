@@ -2,7 +2,7 @@
 
 - 👨‍💻 Front-end developer.
 - 👨‍💻 Cursando Bacharelado em Sistemas de Informação, 7° período.
-- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/patriciarodriguessilvaprs), [instagram](https://instagram.com/patty.rodriguess) or by [mail](mailto: prs.pattyrodriguess@gmail.com)
+- 📫 How to reach me: You can write me on [Linkedin](https://www.linkedin.com/in/patriciarodriguessilvaprs), [Instagram](https://instagram.com/patty.rodriguess) or by [Mail](mailto:prs.pattyrodriguess@gmail.com)
 
 
 <div align="start">

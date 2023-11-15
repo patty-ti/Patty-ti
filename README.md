@@ -26,6 +26,10 @@
 </div>
   
   ##
+
+<p align="center">
+  <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
+</p>
  
 <div> 
     <a href="https://instagram.com/patty.rodriguess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

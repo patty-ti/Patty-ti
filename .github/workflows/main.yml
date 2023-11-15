@@ -29,7 +29,7 @@ jobs:
         uses: Platane/snk@v2
         id: snake-gif
         with:
-          github_user_name: patty-ti
+          github_user_name: Patty-ti
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark

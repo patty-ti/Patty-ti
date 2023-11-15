@@ -29,9 +29,9 @@
   
   ##
 
-<p align="center">
+[<p align="center">
   <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
-</p>
+</p>](url)
 
  <picture>
   <source
@@ -47,6 +47,8 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+##
 
 
 <div> 

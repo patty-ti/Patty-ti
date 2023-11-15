@@ -1,13 +1,14 @@
-## Hello, world! Meu nome é Patty Rodrigues! ;D
+## Hello, world! My name is Patty Rodrigues! ;D
 
-👨‍💻 Cursando Bacharelado em Sistemas de Informação, 4° período.
-👨‍💻 FullStack dev
+👨‍💻 Cursando Bacharelado em Sistemas de Informação, 7° período.
+👨‍💻 Front-end develop
 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=matrix278&label=Profile%20views&color=48c030&style=flat" height="25" width="130" alt="matrix278" />
 </div>
 
+ ##
 
  <div>
   <a href="https://github.com/patty-ti">

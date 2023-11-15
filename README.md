@@ -1,7 +1,8 @@
 ## Hello, world! My name is Patty Rodrigues! ;D
 
-👨‍💻 Cursando Bacharelado em Sistemas de Informação, 7° período.
-👨‍💻 Front-end developer
+- 👨‍💻 Front-end developer.
+- 👨‍💻 Cursando Bacharelado em Sistemas de Informação, 7° período.
+- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/patriciarodriguessilvaprs), [instagram](https://instagram.com/patty.rodriguess) or by [mail](mailto: prs.pattyrodriguess@gmail.com)
 
 
 <div align="start">
